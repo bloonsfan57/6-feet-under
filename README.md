@@ -6,6 +6,8 @@ Hello, and welcome to 6-feet-under, the offical GitHub page of Plants vs Zombies
 
 ***Aditions***
 
+(*) indicates plantable without pot
+
 Hose Pea:
 Hose Pea shoots a beam of water and can hit screen door zombies.
 
@@ -13,7 +15,7 @@ Mossbolt (originaly Mencenary Peashooter):
 Mossbolt shoots high damage, piercing crossbow bolts every 7 seconds.
 
 Flaming Wall-Nut:
-Torchwood but it damages the zombies that eat it and is strong.
+Basicaly PVZ 2 Torchwood.
 
 Vinehook:
 Hooks in zombies with vines and kills them.
@@ -24,8 +26,8 @@ Scaredy Shroom but not scared and also flaming.
 Dual Jet Pea:
 Hose Pea + Repeater.
 
-Tree Stump:
+*Tree Stump:
 Like PvZ2 Minecart but wall-nut.
 
-Thorn Patch:
+*Thorn Patch:
 Spikeweed but it stops and hurts zombies until they eat it.
