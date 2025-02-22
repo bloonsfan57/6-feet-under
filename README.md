@@ -4,7 +4,9 @@ Hello, and welcome to 6-feet-under, the offical GitHub page of Plants vs Zombies
 
 6 Feet Under is a mod for Plants vs Zombies that adds 17 new plants, more puzzles and survival stages, 2 new stages: Basement and Storm (Basement Night), and re adds the versus mode *and adds a new mode* **(maybe)** 
 
-***Aditions***
+***Aditions (NOT ALL ARE INCLUDED)***
+
+**Plants**
 
 (*) indicates plantable without pot
 
@@ -31,3 +33,13 @@ Like PvZ2 Minecart but wall-nut.
 
 *Thorn Patch:
 Spikeweed but it stops and hurts zombies until they eat it.
+
+**Zombies**
+
+Buckethead Pole Vaulter
+Pole vaulter but stronk.
+
+Spore Zombie
+Spits spores on plants doing damage over time. (hose pea and dual jet pea can wash away spores, and torchwood and flaming nut burn spores off of themselves)
+
+
